@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://oaklight.github.io/jev-explore/</loc>
+         <lastmod>2026-09-20</lastmod>
+    </url>
+    <url>
+         <loc>https://oaklight.github.io/jev-explore/overview/</loc>
+         <lastmod>2026-09-20</lastmod>
+    </url>
+    <url>
+         <loc>https://oaklight.github.io/jev-explore/probing/</loc>
+         <lastmod>2026-09-20</lastmod>
+    </url>
+    <url>
+         <loc>https://oaklight.github.io/jev-explore/probing/api-testing/</loc>
+         <lastmod>2026-09-20</lastmod>
+    </url>
+    <url>
+         <loc>https://oaklight.github.io/jev-explore/probing/architecture/</loc>
+         <lastmod>2026-09-20</lastmod>
+    </url>
+    <url>
+         <loc>https://oaklight.github.io/jev-explore/replication/</loc>
+         <lastmod>2026-09-20</lastmod>
+    </url>
+    <url>
+         <loc>https://oaklight.github.io/jev-explore/replication/model/</loc>
+         <lastmod>2026-09-20</lastmod>
+    </url>
+    <url>
+         <loc>https://oaklight.github.io/jev-explore/replication/results/</loc>
+         <lastmod>2026-09-20</lastmod>
+    </url>
+</urlset>
